@@ -1,4 +1,4 @@
-# Thesis_Markov-chain-theory-and-the-Metropolis-Hastings-algorithm
+# RCode: Markov-chain-theory-and-the-Metropolis-Hastings-algorithm
 
 The files "distribution_function.R" and "distribution_v3.R" provide the code to approximate mixed normal distributions.
 
