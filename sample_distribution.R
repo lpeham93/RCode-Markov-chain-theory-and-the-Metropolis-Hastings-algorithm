@@ -1,4 +1,6 @@
 library(ggplot2)
+source("sample_dist_functions.R")
+
 set.seed(1234)
 
 #) Example 1
