@@ -4,8 +4,8 @@ library(MASS)
 library(ggplot2)
 library(dplyr)
 
-setwd("C:/Users/Lukas/Studium/Mathematik/Bachelorarbeit/Metropolis/code")
-source("bayes_functions_v3.R")
+setwd(".")
+source("bayes_lm_functions.R")
 n.cores <- detectCores() - 1
 
 set.seed(1234)
